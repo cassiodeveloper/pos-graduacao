@@ -2360,6 +2360,7 @@ section.hero_area.style-five.three {
     line-height: 80px;
     color: #ffffff;
     font-weight: 700;
+    text-shadow: 1px 1px 2px black;
 }
 
 .style-five .hero-button {
@@ -2426,6 +2427,7 @@ section.hero_area.style-five .hero-course-btn a {
     z-index: 1;
     transition: 0.5s;
     color: #ffffff;
+    text-shadow: 1px 1px 2px black;
 }
 
 section.hero_area.style-five .hero-course-btn a::before {
