@@ -7305,13 +7305,14 @@ display: none;
     /* educate call to action Area css style-two */
 /* ================================================ */
 .call-to-action.style-two {
-    background: url(../images/home-three/call-to-bg2.png);
+    background: url(../images/inner-img/tira.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     position: relative;
     z-index: 1;
     padding: 50px 0 60px;
+    text-shadow: 1px 1px 2px black;
 }
 
 .style-two .call-to-title h3 {
