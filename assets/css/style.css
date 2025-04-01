@@ -621,7 +621,7 @@ button.cart_btn.headers-button .cart_counter {
     font-weight: 500;
     font-family: "Outfit";
     border-radius: 23px;
-    background-color: #1ec28e;
+    background-color: #e2af2f;
     padding: 10px 35px;
     transition: 0.5s;
     position: relative;
@@ -2518,7 +2518,7 @@ section.hero_area.style-five .hero-course-btn a i {
     width: 64px;
     height: 64px;
     border-radius: 32px;
-    border: 2px dotted #1ec28e;
+    border: 2px dotted #e2af2f;
     text-align: center;
 }
 
@@ -2661,7 +2661,7 @@ section.hero_area.style-six .hero_content h1 span{
     display: inline-block;
     font-size: 60px;
     line-height: 70px;
-    color:#1ec28e;
+    color:#e2af2f;
     font-weight: 600;
 }
 section.hero_area.style-six .lines {
@@ -2683,7 +2683,7 @@ section.hero_area.style-six .lines .line::after {
     left: 0px;
     width: 150px;
     height: 1px;
-    background-color: #1ec28e;
+    background-color: #e2af2f;
     -webkit-animation: moveLeftBounces 35s linear infinite;
     animation: moveLeftBounces 35s linear infinite;
     overflow: hidden;
@@ -3211,7 +3211,7 @@ section.feature-area.style-two {
     z-index: 1;
     font-size: 15px;
     text-transform: uppercase;
-    color: #1ec28e;
+    color: #e2af2f;
     font-weight: 600;
     font-family: "Open Sans";
     padding: 0;
@@ -3234,7 +3234,7 @@ section.feature-area.style-two {
 }
 .section_title.six h1 span{
     display: inline-block;
-    color: #1ec28e;
+    color: #e2af2f;
 }
 
 
@@ -4112,7 +4112,7 @@ section.about-area.style-five {
 }
 .style-five .call-icon span {
     display: inline-block;
-    color: #1ec28e;
+    color: #e2af2f;
     width: 62px;
     height: 62px;
     line-height: 62px;
@@ -4128,7 +4128,7 @@ section.about-area.style-five {
     height: 70px;
     line-height: 70px;
     border-radius: 35px;
-    border: 1px dashed #1ec28e;
+    border: 1px dashed #e2af2f;
     top: -4px;
     left: -4px;
 }
@@ -4183,7 +4183,7 @@ section.about-area.style-five .section-title-desc p {
     height: 24px;
     line-height: 24px;
     border-radius: 50%;
-    background-color: #1ec28e;
+    background-color: #e2af2f;
     color: #fff;
     text-align: center;
     margin-right: 10px;
@@ -4247,7 +4247,7 @@ section.about-area.style-five.feature .about-video-icon a {
     display: inline-block;
     font-size: 15px;
     text-transform: uppercase;
-    color: #1ec28e;
+    color: #e2af2f;
     font-weight: 500;
     font-family: "Open Sans";
     width: 69px;
@@ -4280,7 +4280,7 @@ section.about-area.style-five.feature .about-video-icon a::after {
     width: 114px;
     height: 114px;
     border-radius: 57px;
-    border: 2px dashed #1ec28e;
+    border: 2px dashed #e2af2f;
     top: -23px;
     left: -24px;
 }
@@ -4324,7 +4324,7 @@ section.about-area.style-six .about-video-icon a {
     width: 70px;
     height: 69px;
     border-radius: 34px;
-    background-color: #1ec28e;
+    background-color: #e2af2f;
     border: 1px solid rgba(255,255,255,0.35);
     webkit-animation: ripple-white 1s linear infinite;
     animation: ripple-blue 1s linear infinite;
@@ -5026,7 +5026,7 @@ display: none;
     font-weight: 500;
     font-family: "Outfit";
     border-radius: 26px;
-    background-color: #1ec28e;
+    background-color: #e2af2f;
     padding: 12px 34px;
     transition: 0.5s;
     position: relative;
@@ -6215,7 +6215,7 @@ display: none;
     line-height: 85px;
     border-radius: 50%;
     background-color: #f0fbf8;
-    border: 1px solid #1ec28e;
+    border: 1px solid #e2af2f;
     left: -5px;
     top: -5px;
     z-index: -1;
@@ -6574,7 +6574,7 @@ display: none;
     width: 10px;
     height: 10px;
     border-radius: 10px;
-    background-color: #1ec28e;
+    background-color: #e2af2f;
     position: relative;
 }
 
@@ -6585,7 +6585,7 @@ display: none;
     height: 20px;
     border-radius: 10px;
     background-color: rgba(30,194,142,0);
-    border: 1px solid #1ec28e;
+    border: 1px solid #e2af2f;
     left: -5px;
     top: -5px;
 }
@@ -6864,7 +6864,7 @@ display: none;
     width: 10px;
     height: 10px;
     border-radius: 10px;
-    background-color: #1ec28e;
+    background-color: #e2af2f;
     position: relative;
 }
 .testimonial-area.style-five .owl-dot.active::before {
@@ -6874,7 +6874,7 @@ display: none;
     height: 20px;
     border-radius: 10px;
     background-color: rgba(30,194,142,0);
-    border: 1px solid #1ec28e;
+    border: 1px solid #e2af2f;
     left: -5px;
     top: -5px;
 }
@@ -6951,7 +6951,7 @@ display: none;
 .testimonial-area.style-six .testi-ratting ul li {
     display: inline-block;
     font-size: 16px;
-    color: #1ec28e;
+    color: #e2af2f;
 }
 .testimonial-area.style-six .testi-desc p {
     font-size: 17px;
@@ -6969,7 +6969,7 @@ display: none;
     width: 65px;
     height: 65px;
     border-radius: 32px;
-    background-color: #1ec28e;
+    background-color: #e2af2f;
 }
 .testimonial-area.style-six .testi-autor-content h5 {
     font-size: 22px;
@@ -7134,7 +7134,7 @@ display: none;
 }
 
 .style-inner .single-testi-box:hover .testi-autor-box::before{
-    background-color: #1ec28e;
+    background-color: #e2af2f;
 }
 
 .style-inner .testi-autor {
@@ -7669,7 +7669,7 @@ display: none;
     top: 10px;
 }
 .blog-area.style-one.five .single-blog-box.box-2 .blog-author h4::before{
-    background-color: #1ec28e;
+    background-color: #e2af2f;
 }
 .blog-area.style-one.five .single-blog-box.box-3 .blog-author h4::before{
     background-color: #df9245;
@@ -7741,7 +7741,7 @@ display: none;
     font-weight: 500;
     font-family: "Outfit";
     border-radius: 26px;
-    background-color: #1ec28e;
+    background-color: #e2af2f;
     padding: 13px 33px;
     position: relative;
     z-index: 1;
@@ -8607,7 +8607,7 @@ display: none;
     height: 70px;
     line-height: 70px;
     border-radius: 35px;
-    background-color: #1ec28e;
+    background-color: #e2af2f;
     text-align: center;
 }
 .style-five .course-content {
@@ -8829,7 +8829,7 @@ display: none;
     right: 0;
     top: 0;
     border-radius: 14px;
-    background-color: #1ec28e;
+    background-color: #e2af2f;
     transition: 0.5s;
 }
 .popular-course-area.style-six .popular-course-box:hover .popular-course-content::after {
@@ -8843,7 +8843,7 @@ display: none;
 .style-six .course-rating ul li {
     display: inline-block;
     font-size: 16px;
-    color: #1ec28e;
+    color: #e2af2f;
     transition: 0.5s;
 }
 .popular-course-area.style-six .popular-course-box:hover .course-rating ul li{
@@ -8863,7 +8863,7 @@ display: none;
     font-size: 15px;
     line-height: 30px;
     text-transform: uppercase;
-    color: #1ec28e;
+    color: #e2af2f;
     font-weight: 400;
     font-family: "Open Sans";
     border-radius: 17px;
@@ -10089,7 +10089,7 @@ display: none;
 .style-two .event-content h5 {
     font-size: 16px;
     line-height: 30px;
-    color: #1ec28e;
+    color: #e2af2f;
     font-weight: 500;
     display: flex;
     align-items: baseline;
@@ -10525,7 +10525,7 @@ display: none;
 .style-four .course-content h5 {
     font-size: 14px;
     line-height: 30px;
-    color: #1ec28e;
+    color: #e2af2f;
     font-weight: 500;
     border-radius: 16px;
     background-color: rgba(30,194,142,0.10196078431372549);
@@ -10579,7 +10579,7 @@ display: none;
 
 .style-four .course-price h6 {
     font-size: 24px;
-    color: #1ec28e;
+    color: #e2af2f;
     font-weight: 500;
 }
 
@@ -10598,7 +10598,7 @@ display: none;
 .style-four .course-btn a {
     display: inline-block;
     font-size: 14px;
-    color: #1ec28e;
+    color: #e2af2f;
     font-weight: 500;
     font-family: "Outfit";
     border-radius: 22px;
@@ -10867,7 +10867,7 @@ display: none;
     font-weight: 500;
     font-family: "Outfit";
     border-radius: 25px;
-    background-color: #1ec28e;
+    background-color: #e2af2f;
     padding: 9px 34px;
     transition: 0.5s;
     position: relative;
@@ -10989,7 +10989,7 @@ display: none;
     font-size: 14px;
     line-height: 30px;
     text-transform: uppercase;
-    color: #1ec28e;
+    color: #e2af2f;
     font-weight: 500;
     border-radius: 16px;
     background-color: rgba(30,194,142,0.10196078431372549);
@@ -11219,7 +11219,7 @@ display: none;
     font-weight: 600;
     font-family: "Open Sans";
     border-radius: 30px;
-    background-color: #1ec28e;
+    background-color: #e2af2f;
     display: inline-block;
     padding: 17px 28px;
 }
@@ -11271,7 +11271,7 @@ section.gym-program-area.style-one .gym-content-inner:before {
     right: 0;
     top: 0;
     border-radius: 14px;
-    background-color: #1ec28e;
+    background-color: #e2af2f;
     transition: 0.5s;
 }
 section.gym-program-area.style-one .gym-content-inner:hover:before{
@@ -11363,7 +11363,7 @@ section.gym-program-area.style-one .gym-content-inner:hover .gym-btn a span{
 section.gym-program-area.style-one .gym-btn a i {
     font-size: 16px;
     font-weight: 600;
-    color: #1ec28e;
+    color: #e2af2f;
     transition: 0.5s;
 }
 section.gym-program-area.style-one .gym-content-inner:hover .gym-btn a i{
@@ -11460,7 +11460,7 @@ section.contact_area.style-six .contact-form button {
     width: 100%;
     height: 56px;
     border-radius: 28px;
-    background-color: #1ec28e;
+    background-color: #e2af2f;
     position: relative;
     z-index: 1;
 }
@@ -11525,7 +11525,7 @@ section.contact_area.style-six .contact-form button:hover{
     font-size: 16px;
     line-height: 30px;
     text-transform: uppercase;
-    color: #1ec28e;
+    color: #e2af2f;
     font-weight: 500;
     font-family: "Outfit";
 }
@@ -11713,7 +11713,7 @@ section.contact_area.style-six .contact-form button:hover{
 .instruction-details-section .instructior-designation h5 {
     font-size: 14px;
     line-height: 28px;
-    color: #1ec28e;
+    color: #e2af2f;
     font-weight: 500;
     border-radius: 15px;
     background-color: rgba(30,194,142,0.10196078431372549);
@@ -11871,7 +11871,7 @@ section.contact_area.style-six .contact-form button:hover{
 }
 
 .style-inner .course-details-box:hover{
-    border: 1px solid #1ec28e;
+    border: 1px solid #e2af2f;
 }
 
 .style-inner .course-details-thumb {
@@ -11911,7 +11911,7 @@ section.contact_area.style-six .contact-form button:hover{
     display: inline-block;
     text-transform: capitalize;
     text-align: center;
-    background-color: #1ec28e;
+    background-color: #e2af2f;
     border-radius: 16px;
     font-size: 14px;
     color: #ffffff;
@@ -11962,7 +11962,7 @@ section.contact_area.style-six .contact-form button:hover{
 
 .style-inner .course-price h3 {
     font-size: 24px;
-    color: #1ec28e;
+    color: #e2af2f;
     font-weight: 500;
     font-family: "Outfit";
     padding: 5px 0 40px;
@@ -12010,7 +12010,7 @@ section.contact_area.style-six .contact-form button:hover{
 .style-inner .course-lesson span i {
     display: inline-block;
     font-size: 15px;
-    color: #1ec28e;
+    color: #e2af2f;
     margin-right: 5px;
 }
 
@@ -12034,7 +12034,7 @@ section.contact_area.style-six .contact-form button:hover{
 .style-inner .course-student span i{
     display: inline-block;
     font-size: 15px;
-    color: #1ec28e;
+    color: #e2af2f;
     margin-right: 5px;
 }
 
@@ -12163,7 +12163,7 @@ section.event-details-area.style-inner {
     width: 418px;
     height: 5px;
     border-radius: 2px;
-    background-color: #1ec28e;
+    background-color: #e2af2f;
     left: 0;
     top: 0;
 }
@@ -12203,7 +12203,7 @@ section.event-details-area.style-inner {
 .style-inner span.value-dollar {
     display: inline-block;
     font-size: 20px !important;
-    color: #1ec28e !important;
+    color: #e2af2f !important;
 }
 
 .style-inner .event-info-btn {
@@ -12278,7 +12278,7 @@ section.event-details-area.style-inner {
 .style-inner span.days, .hours, .minutes, .seconds {
     display: inline-block;
     font-size: 24px;
-    color: #1ec28e !important;
+    color: #e2af2f !important;
     font-weight: 500;
     font-family: "Outfit";
     text-align: center;
@@ -12420,7 +12420,7 @@ section.course-details-area.style-inner {
 
 .style-inner a.active {
     color: #fff !important;
-    background: #1ec28e !important;
+    background: #e2af2f !important;
     filter: drop-shadow(0px 10px 100px rgba(12,110,109,0.1)) !important;
 }
 .style-inner .accordion li a span {
@@ -12443,7 +12443,7 @@ section.course-details-area.style-inner {
 .style-inner span.title i {
     display: inline-block;
     font-size: 20px;
-    color: #1ec28e;
+    color: #e2af2f;
     margin-right: 10px;
     cursor: pointer;
 }
@@ -12497,7 +12497,7 @@ section.course-details-area.style-inner {
 .style-inner .instructors-info span{
     display: inline-block;
     font-size: 18px;
-    color: #1ec28e;
+    color: #e2af2f;
     font-weight: 400;
     font-family: "Outfit";
 }
@@ -12522,7 +12522,7 @@ section.course-details-area.style-inner {
 .style-inner h5.designation {
     font-size: 14px;
     line-height: 28px;
-    color: #1ec28e;
+    color: #e2af2f;
     font-weight: 500;
     border-radius: 20px;
     background-color: rgba(30,194,142,0.10196078431372549);
@@ -12890,7 +12890,7 @@ section.course-details-area.style-inner .event-info-btn a {
     border-radius: 50%;
     width: 28px;
     height: 28px;
-    background-color: #1ec28e;
+    background-color: #e2af2f;
 }
 
 .style-inner input:checked + .slider {
@@ -13242,7 +13242,7 @@ section.course-details-area.style-inner .event-info-btn a {
     font-family: "Outfit";
 }
 .style-one h2.price.price-yearly {
- color:#1ec28e;
+ color:#e2af2f;
 }
 .style-one .pricing-rate h2 .month {
     font-size: 17px;
@@ -13367,7 +13367,7 @@ section.course-details-area.style-inner .event-info-btn a {
 .style-two .pricing-head-title h1 {
     font-size: 17px;
     text-transform: uppercase;
-    color: #1ec28e;
+    color: #e2af2f;
     font-weight: 500;
     position: relative;
     z-index: 1;
@@ -13433,7 +13433,7 @@ section.course-details-area.style-inner .event-info-btn a {
     font-weight: 500;
     font-family: "Outfit";
     border-radius: 28px;
-    background-color: #1ec28e;
+    background-color: #e2af2f;
     padding: 10px 33px;
     position: relative;
     z-index: 1;
@@ -13513,7 +13513,7 @@ section.course-details-area.style-inner .event-info-btn a {
 
 .shop-detials .category-price h1 {
     font-size: 22px;
-    color: #1ec28e;
+    color: #e2af2f;
     font-weight: 500;
     font-family: "Outfit";
 }
@@ -13715,7 +13715,7 @@ section.course-details-area.style-inner .event-info-btn a {
     content: '';
     width: 144px;
     height: 2px;
-    background-color: #1ec28e;
+    background-color: #e2af2f;
     bottom: -18px;
     left: 0;
 }
@@ -13877,7 +13877,7 @@ section.course-details-area.style-inner .event-info-btn a {
     font-family: "Outfit";
     text-align: center;
     border-radius: 25px;
-    background-color: #1ec28e;
+    background-color: #e2af2f;
     border: 0;
     padding: 11px 39px;
     margin-top: 23px;
@@ -14133,7 +14133,7 @@ span#slider-range-value2 {
     line-height: 38px;
     border-radius: 5px;
     background-color: rgba(255,255,255,0);
-    border: 1px solid #1ec28e;
+    border: 1px solid #e2af2f;
     text-align: center;
     color: var(--primary-color);
 }
@@ -14144,7 +14144,7 @@ span#slider-range-value2 {
     line-height: 38px;
     border-radius: 5px;
     background-color: rgba(255,255,255,0);
-    border: 1px solid #1ec28e;
+    border: 1px solid #e2af2f;
     text-align: center;
     color: var(--primary-color);
 }
@@ -14262,7 +14262,7 @@ span#slider-range-value2 {
 .shop-section .product-price p {
     font-size: 22px;
     line-height: 30px;
-    color: #1ec28e;
+    color: #e2af2f;
     font-weight: 500;
     font-family: "Outfit";
     padding-top: 15px;
@@ -14296,7 +14296,7 @@ span#slider-range-value2 {
     font-weight: 500;
     font-family: "Outfit";
     border-radius: 21px;
-    background-color: #1ec28e;
+    background-color: #e2af2f;
     padding: 6px 30px;
     transition: 0.5s;
 }
@@ -15060,7 +15060,7 @@ span#slider-range-value2 {
     content: '';
     width: 418px;
     height: 6px;
-    background-color: #1ec28e;
+    background-color: #e2af2f;
     top: 0;
     left: 0;
 }
@@ -15141,7 +15141,7 @@ h4.sidebar-title {
 .rpost-title span {
     font-size: 14px;
     text-transform: uppercase;
-    color: #1ec28e;
+    color: #e2af2f;
     font-weight: 400;
     font-family: "Open Sans";
 }
@@ -15222,7 +15222,7 @@ h4.sidebar-title {
     display: inline-block;
     transition: 0.5s;
     border-radius: 19px;
-    background-color: #1ec28e;
+    background-color: #e2af2f;
     padding: 5px 30px;
 }
 
@@ -15323,7 +15323,7 @@ h4.sidebar-title {
     content: '';
     width: 68px;
     height: 2px;
-    background-color: #1ec28e;
+    background-color: #e2af2f;
     left: 0;
     top: 10px;
 }
@@ -15350,7 +15350,7 @@ h4.sidebar-title {
 
 .blog-details-area ul.product-list li i {
     display: inline-block;
-    color: #1ec28e;
+    color: #e2af2f;
     font-size: 20px;
     margin-right: 15px;
 }
@@ -15556,7 +15556,7 @@ h4.sidebar-title {
     width: 182px;
     height: 50px;
     border-radius: 25px;
-    background-color: #1ec28e;
+    background-color: #e2af2f;
     border: 0;
     margin-top: 23px;
 }
@@ -15611,7 +15611,7 @@ section.contact_area.inner_section .section-sub-title.three h6 img {
     width: 70px;
     line-height: 70px;
     border: 2px solid transparent;
-    color: #1ec28e;
+    color: #e2af2f;
     transition: .5s;
     border-radius: 50%;
     background-color: #ffffff;
@@ -15658,7 +15658,7 @@ section.contact_area.inner_section .section-sub-title.three h6 img {
 .inner_section .contact-section-title h4 {
     font-size: 16px;
     line-height: 35px;
-    color: #1ec28e;
+    color: #e2af2f;
     font-weight: 500;
     font-family: "Outfit";
     text-align: center;
@@ -15720,7 +15720,7 @@ section.contact_area.inner_section .section-sub-title.three h6 img {
     width: 180px;
     height: 50px;
     border-radius: 25px;
-    background-color: #1ec28e;
+    background-color: #e2af2f;
     transition: 0.5s;
 }
 
@@ -15809,7 +15809,7 @@ p.lead {
     margin-top: 27px;
     display: inline-block;
     border-radius: 30px;
-    background: #1ec28e;
+    background: #e2af2f;
 }
 
 .error-info a i {
@@ -15867,7 +15867,7 @@ p.lead {
     position: absolute;
     height: 100%;
     width: 50%;
-    background-color:#1ec28e;
+    background-color: #e2af2f;
 }
 
 .loading-screen .top-bar {

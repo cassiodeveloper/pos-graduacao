@@ -164,7 +164,7 @@ a:active {
 header {
     padding: 2em 0 2em 0; 
     
-    background: #1ec28e; 
+    background: #e2af2f; 
     color: #fff;
 }
 
@@ -440,13 +440,13 @@ pre {
     }
 
     .docs-nav a:hover {
-        background: #1ec28e;
+        background: #e2af2f;
 		color:#fff;
     }
 
     .docs-nav a:active, 
     .docs-nav .active {
-        background: #1ec28e;
+        background: #e2af2f;
 		color:#fff;
     }
 
