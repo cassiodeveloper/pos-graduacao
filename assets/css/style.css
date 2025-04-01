@@ -3718,6 +3718,7 @@ section.about-area.style-three.inner .section-sub-title.three h6 img {
     line-height: 52px;
     text-transform: uppercase;
     color:var(--primary-color);
+    text-shadow: 1px 1px 2px black;
 }
 
 .style-three .about-experience-count span{
@@ -3726,6 +3727,7 @@ section.about-area.style-three.inner .section-sub-title.three h6 img {
     line-height: 52px;
     text-transform: uppercase;
     color:var(--primary-color);
+    text-shadow: 1px 1px 2px black;
 }
 
 .style-three .about-experience-count span {
@@ -3735,6 +3737,7 @@ section.about-area.style-three.inner .section-sub-title.three h6 img {
     color:var(--primary-color);
     position: relative;
     top: -16px;
+    text-shadow: 1px 1px 2px black;
 }
 
 .style-three .about-experience-count {
