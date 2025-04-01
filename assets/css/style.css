@@ -2314,7 +2314,7 @@ section.hero_area.style-four .hero-autor-content span {
 <-- educate hero Area css style-five -->
 ==============================================*/
 section.hero_area.style-five {
-    background: url(../images/home-five/hero-bg5.png);
+    background: url(../images/home-five/1.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -2322,7 +2322,15 @@ section.hero_area.style-five {
 }
 
 section.hero_area.style-five.two {
-    background: url(../images/home-five/hero-bg52.png);
+    background: url(../images/home-five/2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 850px;
+}
+
+section.hero_area.style-five.three {
+    background: url(../images/home-five/3.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
