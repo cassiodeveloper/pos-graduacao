@@ -1,62 +1,3 @@
-/*===============================================
-Template Name: educatex - education online course HTML5 Template
-Author:  https://themeforest.net/user/dreamit-solution
-Description: Description
-Version: 1.0.0
-Text Domain: educate
-Tags: consulting, finance, corporate, business, consultant, multipurpose, technology, it-solution, software, agency, company, portfolio, bangking, insurance, digital-agency, digital-marketing.
-================================================*/
-
-/*TABLE OF CONTENTS*/
-/*=====================
-01. educate Header-top Area Css
-02. educate sign up form Css
-03. educate Header Area Css
-04. header cart sidebar css
-05. Cart Item Css
-06.  educate Search Popup Css
-07. educate Sidbar Css
-08. educate hero Area css
-09. educate feature Area Css
-10. educate section title Css
-11. educate about Area Css
-12. educate marquee Area css
-13. educate case study Area css
-15. educate why choose Area css
-16. educate course design offer Area css
-17. educate team Area css
-18. educate testimonial Area css
-19. educate call to action Area css
-20. educate blog Area css 
-21. educate brand Area css
-22. educate footer Area css
-23. educate course category css
-24. educate online course Area Css
-25. educate reason choose area css
-26. educate course program Area css
-27. educate cumpus life section css
-28. educate admission learning  section css
-29. educate joint event area css
-30. educate faq Area css
-31. educate breadcub area css
-32. instruction details section css
-33. educate-details-course-area css
-34.  educate event details area css
-35. course details area css 
-36. educate pricing Area css
-37. educate shop details area css
-38. educate shop section area css
-39. educate shopping Cart Section css
-40. Product Section checkout css
-41. educate latest blog area css
-42. educate blog details area css
-43. educate Conatct Area css
-44. educate Error area css
-45. Loader Css
-=======================*/
-
-
-
 /*---=====================================================
    <!--educate Header-top Area Css-->
 =========================================================---*/
@@ -15861,7 +15802,7 @@ p.lead {
     top: 0;
     width: 100%;
     height: 100%;
-    background: #ff853f;
+    background: #ffffff;
     z-index: 1000;
 }
 
