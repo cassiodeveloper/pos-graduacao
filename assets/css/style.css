@@ -2447,7 +2447,7 @@ section.hero_area.style-five .hero-course-btn a i {
     width: 52px;
     height: 52px;
     border-radius: 26px;
-    background-color: rgba(30,194,142,0.9411764705882353);
+    background-color: #e2af2f;
     position: relative;
 }
 
@@ -4058,7 +4058,7 @@ section.about-area.style-five {
     height: 62px;
     line-height: 62px;
     border-radius: 31px;
-    background-color: rgb(30 194 142 / 20%);
+    background-color: #e2af2f14;
     text-align: center;
     position: relative;
 }
@@ -8562,7 +8562,7 @@ display: none;
     color: var(--primary-color);
     font-weight: 500;
     border-radius: 18px;
-    background-color: rgb(30 194 142 / 8%);
+    background-color: #e2af2f14;
     display: inline-block;
     padding: 3px 15px;
     margin-bottom: 20px;
@@ -13137,10 +13137,10 @@ section.course-details-area.style-inner .event-info-btn a {
     width: 38px;
     height: 38px;
     border-radius: 50%;
-    background-color: #1fc28e;
+    background-color: #e2af2f14;
 }
 .style-one input:checked + .slider {
-    background-color: #fdf7f3;
+    background-color: #e2af2f14;
 }
 .style-one input:checked + .slider:before {
     transform: translateX(42px);
