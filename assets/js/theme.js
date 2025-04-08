@@ -866,12 +866,4 @@ $(document).ready(function() {
     initializeClock('clockdiv', deadline);
 });
 
-
-
-                                     
-
 })(jQuery);
-
-
-
-
