@@ -862,7 +862,7 @@ $(document).ready(function() {
         var timeinterval = setInterval(updateClock, 1000);
     }
     // count down timer:
-    var deadline = new Date(Date.now() + 385 * 23 * 59 * 59 * 1000);
+    var deadline = new Date(2026, 12, 4);
     initializeClock('clockdiv', deadline);
 });
 
