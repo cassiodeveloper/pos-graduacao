@@ -3067,10 +3067,11 @@ section.feature-area.style-two {
     color:var(--primary-color);
     font-weight: 500;
     border-radius: 18px;
-    background-color: rgb(30 194 142 / 10%);
+    background-color: #e2af2f14;
     display: inline-block;
     padding: 3px 16px 3px 16px;
     margin-bottom: 25px;
+    text-shadow: 1px 1px 2px black
 }
 
 .section-sub-title.two h6 img {
@@ -13127,6 +13128,7 @@ section.course-details-area.style-inner .event-info-btn a {
     height: 46px;
     border-radius: 23px;
     background-color: #e2af2f14;
+    border: solid 1px #e2af2f;
 }
 .style-one .slider:before {
     position: absolute;
