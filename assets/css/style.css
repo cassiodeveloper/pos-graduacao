@@ -12027,7 +12027,7 @@ section.contact_area.style-six .contact-form button:hover{
     /* educate event details area css style-inner */
 /* =================================================== */
 section.event-details-area.style-inner {
-    padding: 30px 0 20px;
+    padding: 30px 0 0px;
 }
 
 .style-inner .event-details-thumb img {
